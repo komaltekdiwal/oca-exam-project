@@ -1,0 +1,6 @@
+package com.capgemini.oracle.corrected;
+
+public class Example82 {
+private char var;
+
+}

@@ -1,0 +1,22 @@
+package com.capgemini.oracle.corrected;
+
+public class Example102 {
+static int count = 0;
+int i = 0;
+
+
+public void countChange() {
+	while(i<5) {
+		i++;
+		count++;
+		
+	}
+}
+
+
+public static void main(String[] args) {
+	Example102 ex1= new Example102();
+	Example102 ex2= new Example102();
+	
+}
+}

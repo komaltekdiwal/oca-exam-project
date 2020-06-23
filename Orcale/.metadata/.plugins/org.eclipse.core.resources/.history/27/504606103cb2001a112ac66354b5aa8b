@@ -1,0 +1,20 @@
+package com.capgemini.oracle.corrected;
+
+public class Example81 {
+	int x;
+	int y;
+
+	public void doStuff(int x, int y) {
+		this.x = x;
+		y = this.y;
+
+	}
+
+	public void display() {
+		System.out.println(x+""+y+":");
+	}
+	
+	public static void main(String[] args) {
+		Example81 ex1 = new Example81();
+	}
+}

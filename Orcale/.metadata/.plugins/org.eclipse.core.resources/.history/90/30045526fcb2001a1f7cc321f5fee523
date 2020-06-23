@@ -1,0 +1,9 @@
+package com.capgemini.oracle.corrected;
+
+import java.util.ArrayList;
+import java.util.List;
+
+public class Example127 {
+List colors = new ArrayList<E>();
+colors.add
+}

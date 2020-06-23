@@ -1,0 +1,9 @@
+package com.capgemini.oracle.corrected;
+
+public class Examplq100 {
+int count;
+public static void displayMsg() {
+	count++;
+	System.out.println("Welcome"+"Visit count:"+count);
+}
+}

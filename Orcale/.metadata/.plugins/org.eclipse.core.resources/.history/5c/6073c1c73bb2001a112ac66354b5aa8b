@@ -1,0 +1,11 @@
+package com.capgemini.oracle.corrected;
+
+public class Example81 {
+int x;
+int y;
+public void doStuff(int x,inty) {
+	this.x=x;
+	y=this.y;
+	
+}
+}

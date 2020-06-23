@@ -1,0 +1,15 @@
+package com.capgemini.oracle.corrected;
+
+public class Car7 extends Vehicle7{
+	
+	String trans;
+	
+	Car7
+	
+
+	Car7(String type, int maxSpeed) {
+		super(type, maxSpeed);
+		// TODO Auto-generated constructor stub
+	}
+
+}

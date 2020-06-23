@@ -1,0 +1,10 @@
+package com.capgemini.oracle.corrected;
+
+public class Example109 {
+public static void main(String[] args) {
+	String mystr = "Hello WORLD";
+	mystr.trim();
+	int i1 = mystr.indexOf("");
+	System.out.println(i1);
+}
+}

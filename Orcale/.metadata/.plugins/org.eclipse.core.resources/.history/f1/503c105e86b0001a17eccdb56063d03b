@@ -1,0 +1,7 @@
+package com.capgemini.oracle.corrected;
+
+public class Example19 {
+void rteadCard(int cardNo) throws Exception{
+	System.out.println("Reading Card");
+}
+}
